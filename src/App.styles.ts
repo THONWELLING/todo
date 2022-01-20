@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+import { ListItem } from './components/ListItem'
 
 export const Container = styled.div`
   background-color: #17181f;
